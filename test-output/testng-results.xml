@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-22T10:52:31 IST" name="Default suite" finished-at="2024-09-22T10:52:58 IST" duration-ms="27893">
+    <groups>
+    </groups>
+    <test started-at="2024-09-22T10:52:31 IST" name="Default test" finished-at="2024-09-22T10:52:58 IST" duration-ms="27893">
+      <class name="com.bestbuy.DemoBestBuy">
+        <test-method is-config="true" signature="startChromeBrowser()[pri:0, instance:com.bestbuy.DemoBestBuy@7c37508a]" started-at="2024-09-22T10:52:27 IST" name="startChromeBrowser" finished-at="2024-09-22T10:52:30 IST" duration-ms="3613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startChromeBrowser -->
+        <test-method signature="bestbuybrokenurl()[pri:1, instance:com.bestbuy.DemoBestBuy@7c37508a]" started-at="2024-09-22T10:52:31 IST" name="bestbuybrokenurl" finished-at="2024-09-22T10:52:57 IST" duration-ms="26145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bestbuybrokenurl -->
+        <test-method signature="menulinks()[pri:2, instance:com.bestbuy.DemoBestBuy@7c37508a]" started-at="2024-09-22T10:52:57 IST" name="menulinks" finished-at="2024-09-22T10:52:58 IST" duration-ms="1686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menulinks -->
+      </class> <!-- com.bestbuy.DemoBestBuy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
